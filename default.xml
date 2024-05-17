@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/deneb88/Thanos.sh.git" name="origin" />
+  <default remote="origin" revision="master"/>
+  <project name="https://github.com/deneb88/README.git" path="readme">
+<!--     <copyfile dest="m" src="m"/>
+    <copyfile dest="Make.bat" src="Make.bat"/>
+    <copyfile dest="make.pl" src="make.pl"/>
+    <copyfile dest="make.sh" src="make.sh"/>
+    <copyfile dest="M.bat" src="M.bat"/>
+    <copyfile dest="BuildMMAA.pl" src="BuildMMAA.pl"/> -->
+  </project>
+<!--   <project name="platform/mediatek/modem/driver" path="driver" revision="352b1d8fb184a0169c6a17b5f6a858730fc51966" upstream="main_release" />
+  <project name="platform/mediatek/modem/make" path="make" revision="main_release" />
+  <project name="platform/mediatek/modem/middleware" path="middleware" revision="tag_20160316" />
+  <project name="platform/mediatek/modem/modem" path="modem" />
+  <project name="platform/mediatek/modem/mtk_rel" path="mtk_rel"/>
+  <project name="platform/mediatek/modem/custom" path="custom"/>
+  <project name="platform/mediatek/modem/tools" path="tools"/>
+  <project name="platform/mediatek/modem/interface" path="interface"/>
+  <project name="platform/mediatek/modem/service" path="service"/> -->
+</manifest>
